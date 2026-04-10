@@ -1,8 +1,7 @@
 
-# Resource Monitor Widget
+# Windows Taskbar Resource Monitor Widget
 
 A simple and customizable resource monitor widget for Windows 10/11 that displays the current usage of CPU, GPU, RAM, WEB upload and download speed, TIME with seconds and DATE. The widget can be resized and moved freely on the screen or fixed in a specific position.
-Based on https://github.com/AlexKlos/ResourceMonitor 
 
 ![widget](scr1.png)
 
@@ -14,5 +13,7 @@ Based on https://github.com/AlexKlos/ResourceMonitor
 - Color mode options: system colors, dynamic color based on usage.
 
 ## Requirements
-
 - Python 3.x
+
+## Based on
+https://github.com/AlexKlos/ResourceMonitor  
