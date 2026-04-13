@@ -12,6 +12,8 @@ A simple and customizable resource monitor widget for Windows 10/11 that display
 - Allows customization of font size and update interval.
 - Color mode options: system colors, dynamic color based on usage.
 
+![widget](scr2.png)
+
 ## Requirements
 - Python 3.x
 
