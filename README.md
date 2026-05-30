@@ -19,3 +19,5 @@ A simple and customizable resource monitor widget for Windows 10/11 that display
 
 ## Based on
 https://github.com/AlexKlos/ResourceMonitor  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N6S720GUDR)
